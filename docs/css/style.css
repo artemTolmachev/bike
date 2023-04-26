@@ -90,7 +90,7 @@ body {
     background-color: black;
   }
   .card-color-yellow {
-    background: rgb(237,182,29);
+    background: rgb(32, 31, 28);
     background: linear-gradient(135deg,rgba(254,246,118,1) 0%, rgba(237,182,29,1) 100%);
   }
   .card-color-red {
@@ -124,7 +124,7 @@ body {
     padding-right: 30px;
     padding-left: 30px;
     border-radius: 4px;
-    background-color: #ffd01e;
+    background-color: #393526;
     font-weight: 600;
     font-size: 22px;
     line-height: 68px;
